@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/library/KiCad")(options "")(descr ""))
+  (lib (name "FOSS")(type "KiCad")(uri "${KIPRJMOD}/library/Open-Source-Hardware-Logos-for-Kicad-master")(options "")(descr ""))
+)
